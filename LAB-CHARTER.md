@@ -39,7 +39,7 @@ Anything not in section 2 needs written permission from its owner first.
 
 ## 6. Snapshots
 - Take a snapshot before any risky change.
-- Location: VirtualBox default, ~/VirtualBox VMs/<VM name>/Snapshots
+- Location: VirtualBox default, `~/VirtualBox VMs/<VM name>/Snapshots`
 - Names: date-what, for example 2026-10-20-clean-install
 - Delete old snapshots after each mini-gate. Keep at least 25 GB free on Ubuntu.
 
