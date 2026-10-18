@@ -3,8 +3,8 @@
 - Date: 17 october 2026
 -Scope: Notes on my progress in this project.
 ## What I built and why
-|----|----|
 |what i built|why i did|
+|----|----|
 |virtual box|to host a virtual machine|
 |virtual machine|to install and host an ubuntu server|
 |git|to control my codes|
