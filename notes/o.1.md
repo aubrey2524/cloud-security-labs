@@ -3,6 +3,7 @@
 - Date: 17 october 2026
 -Scope: Notes on my progress in this project.
 ## What I built and why
+|----|----|
 |what i built|why i did|
 |virtual box|to host a virtual machine|
 |virtual machine|to install and host an ubuntu server|
@@ -12,7 +13,7 @@
 |lab charter|to track my progress| 
 ## Commands I used (what each does, in my words)
 |commands used|purpose|
-|  |   |
+|----|----|
 |mkdir|to create a folder|
 |nano|to get to edit a file|
 |cat|to view a file|
@@ -23,7 +24,7 @@
 |VBoxManage startvm| to start virtual machine|
 ## Mistakes I made and how I fixed them
 |mistakes made|how it was fixed|
-|###|###|
+|----|----|
 |nano ~/LAB-CHARTER|cd LAB-CHARTER|
 |VboxManager startvm|VBoxManage startvm|
 ## Things I still don't understand
