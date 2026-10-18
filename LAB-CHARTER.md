@@ -2,6 +2,7 @@
 
 - Owner: Enoch Tetteh Quaye (GitHub: aubrey2524)
 - Written: 17 October 2026
+- Updated: 18 October 2026 (lab VM details)
 - Scope: every lab in this repository
 
 ## 1. Purpose
@@ -14,7 +15,10 @@ I only test systems I own, or systems whose owner has given me written permissio
 | HP EliteBook 745 G6, Ubuntu Desktop | My laptop (the host) | Run labs on it. Do not break it. |
 | Lab VMs in VirtualBox on Ubuntu Desktop | My test servers | Break and rebuild them, after a snapshot |
 
-- Lab VM names and IP addresses: to be filled in after Step 4.
+- `lab-server-01`: Ubuntu Server 26.04.1 LTS, 2 GB RAM, 2 CPUs, 25 GB dynamic disk
+- Network: VirtualBox NAT, VM IP `10.0.2.15`
+- SSH: `127.0.0.1:2222` on my laptop forwards to port 22 on the VM (laptop only)
+- First snapshot: `2026-10-18-clean-install`.
 
 ## 3. On my laptop, but not part of the lab
 - Windows (dual boot): not a test target.
