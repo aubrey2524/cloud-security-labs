@@ -4,7 +4,6 @@
 -Scope: Notes on my progress in this project.
 ## What I built and why
 |what i built|why i did|
-|***|***|
 |virtual box|to host a virtual machine|
 |virtual machine|to install and host an ubuntu server|
 |git|to control my codes|
@@ -13,7 +12,7 @@
 |lab charter|to track my progress| 
 ## Commands I used (what each does, in my words)
 |commands used|purpose|
-|###|###|
+|  |   |
 |mkdir|to create a folder|
 |nano|to get to edit a file|
 |cat|to view a file|
